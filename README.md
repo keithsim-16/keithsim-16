@@ -1,11 +1,8 @@
 ### Hello! I'm Keith 👋    
 
 #### 🙎🏻‍♂️ About Me
-I'm currently a final year Computer Science undergraduate at Nanyang Technological University,  Singapore. 
+I'm currently a final year Computer Science undergraduate at Nanyang Technological University, Singapore. 
 
-🔭 I’m currently working on my Final Year Project related to NLP and job scams  
-🌱 I’m currently learning Malware Analysis this semester  
-📅 I'm planning to take up the OSWE certification or an internship in the summer  
 💼 Previously a cyber security intern at Housing & Development Board (HDB) and Singapore Exchange (SGX)  
 
 #### 📫 Contact
