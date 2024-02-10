@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello! I'm Keith 👋    
 
-<!--
-**keithsim-16/keithsim-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🙎🏻‍♂️ About Me
+I'm currently a final year Computer Science undergraduate at Nanyang Technological University,  Singapore. 
 
-Here are some ideas to get you started:
+🔭 I’m currently working on my Final Year Project related to NLP and job scams  
+🌱 I’m currently learning Malware Analysis this semester  
+📅 I'm planning to take up the OSWE certification or an internship in the summer  
+💼 Previously a cyber security intern at Housing & Development Board (HDB) and Singapore Exchange (SGX)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Contact
+<a href="mailto:keithsimks@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/keithsimks/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
