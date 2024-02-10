@@ -3,7 +3,7 @@
 #### 🙎🏻‍♂️ About Me
 I'm currently a final year Computer Science undergraduate at Nanyang Technological University, Singapore. 
 
-💼 Previously a cyber security intern at Housing & Development Board (HDB) and Singapore Exchange (SGX)  
+- 💼 Previously a cyber security intern at Housing & Development Board (HDB) and Singapore Exchange (SGX)  
 
 #### 📫 Contact
 <a href="mailto:keithsimks@gmail.com">
